@@ -1,0 +1,14 @@
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\bin\Debug\net9.0\HealthyLife.exe
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\bin\Debug\net9.0\HealthyLife.deps.json
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\bin\Debug\net9.0\HealthyLife.runtimeconfig.json
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\bin\Debug\net9.0\HealthyLife.dll
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\bin\Debug\net9.0\HealthyLife.pdb
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\obj\Debug\net9.0\HealthyLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\obj\Debug\net9.0\HealthyLife.AssemblyInfoInputs.cache
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\obj\Debug\net9.0\HealthyLife.AssemblyInfo.cs
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\obj\Debug\net9.0\HealthyLife.csproj.CoreCompileInputs.cache
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\obj\Debug\net9.0\HealthyLife.dll
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\obj\Debug\net9.0\refint\HealthyLife.dll
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\obj\Debug\net9.0\HealthyLife.pdb
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\obj\Debug\net9.0\HealthyLife.genruntimeconfig.cache
+C:\Users\anthonyencarnacao\Documents\Analista e Desenvolvedor de Software\Descomplica\Projeto de Extensão I\HealthyLife\obj\Debug\net9.0\ref\HealthyLife.dll
